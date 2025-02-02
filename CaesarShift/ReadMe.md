@@ -30,11 +30,11 @@ How to Run:
 
 To run each script:
   - Brute-Force Decryption:
-      $ python3 caesar_bruteforce.py encrypted.txt
+      ```python3 caesar_bruteforce.py encrypted.txt```
   - Frequency Analysis Decryption:
-      $ python3 caesar_frequency.py encrypted.txt
+      ```python3 caesar_frequency.py encrypted.txt```
   - Performance Comparison:
-      $ python3 compare_decryption_methods.py encrypted.txt
+      ```python3 compare_decryption_methods.py encrypted.txt```
 
 Expected Output:
 ----------------
